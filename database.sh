@@ -1,4 +1,4 @@
-creating_migration () 
+penv runcreating_migration () 
 {
   pipenv run init
   pipenv run migrate
